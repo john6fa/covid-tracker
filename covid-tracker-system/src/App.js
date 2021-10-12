@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './App.css';
+import './styles/App.css';
 import LineGraph from './components/LineGraph';
 
 function App() {
